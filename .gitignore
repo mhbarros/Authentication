@@ -1,0 +1,14 @@
+# IDE
+/.idea
+
+# API
+/api/node_modules
+/api/.env
+
+# WEB
+/web/node_modules
+/web/.env
+
+# MOBILE
+/mobile/node_modules
+/mobile/.env
